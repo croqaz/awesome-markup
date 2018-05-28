@@ -4,9 +4,9 @@
 
 There is an increasing trend of new markdown-like super-languages, for various purposes, including: creating websites, presentations, graphs, charts and so on. This list tries to gather as much of them as possible, in one place.
 
-**Please contribute your links**, either by forking and creating a MR, or by creating an issue with the link.
+**Please contribute your links**, either by forking and creating a MR, or by [creating an issue](https://github.com/croqaz/awesome-markup/issues) with the link.
 
-When adding a new links, there are a few simple rules:
+When adding new links, there are a few simple rules:
 
 * ideally, the library/application is open-source, so please use the link to the source code (this will make it easy to automate the process of fetching the latest news about the project)
 * please keep that link specific to what this list is about: markup languages and make sure the link works
