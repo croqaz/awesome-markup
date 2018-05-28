@@ -16,7 +16,9 @@ When adding a new links, there are a few simple rules:
 ## The list
 
 * [Idyll](https://github.com/idyll-lang/idyll): Tool that makes it easier to author interactive narratives for the web. Create documents that use common narrative techniques such as embedding interactive charts and graphs, responding to scroll events, and explorable explanations.
+* [Markvis](https://github.com/geekplux/markvis): Make visualization in markdown (bar, line, pie charts).
 * [Mermaid](https://github.com/mermaidjs/mermaid.cli): Markdown-like script language for generating charts (flowchart, sequence diagram, gantt diagram) from text via Javascript.
+* [remark](https://github.com/gnab/remark): Simple, in-browser, markdown-driven slideshow tool targeted at people who know their way around HTML and CSS.
 
 ### Related Lists
 
