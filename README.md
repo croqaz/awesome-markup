@@ -2,7 +2,7 @@
 # Awesome-markup
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-There is an increasing trend of new markdown-line super languages, for various purposes, including: for creating websites, presentations, graphs, charts and so on. This list tries to gather them in one place.
+There is an increasing trend of new markdown-like super-languages, for various purposes, including: creating websites, presentations, graphs, charts and so on. This list tries to gather as much of them as possible, in one place.
 
 **Please contribute your links**, either by forking and creating a MR, or by creating an issue with the link.
 
