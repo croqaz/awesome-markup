@@ -15,6 +15,7 @@ When adding new links, there are a few simple rules:
 
 ## The list
 
+* [Cog](https://nedbatchelder.com/code/cog): Cog transforms files in a very simple way: it finds chunks of Python code embedded in them, executes the Python code, and inserts its output back into the original file. The file can contain whatever text you like around the Python code.
 * [Idyll](https://github.com/idyll-lang/idyll): Tool that makes it easier to author interactive narratives for the web. Create documents that use common narrative techniques such as embedding interactive charts and graphs, responding to scroll events, and explorable explanations.
 * [Markvis](https://github.com/geekplux/markvis): Make visualization in markdown (bar, line, pie charts).
 * [Mermaid](https://github.com/mermaidjs/mermaid.cli): Markdown-like script language for generating charts (flowchart, sequence diagram, gantt diagram) from text via Javascript.
