@@ -21,6 +21,7 @@ When adding new links, there are a few simple rules:
 * [Markvis](https://github.com/geekplux/markvis): Make visualization in markdown (bar, line, pie charts).
 * [Mermaid](https://github.com/mermaidjs/mermaid.cli): Markdown-like script language for generating charts (flowchart, sequence diagram, gantt diagram) from text via Javascript.
 * [mmarkdown](https://github.com/albinotonnina/mmarkdown): Interpret mmd fenced code blocks in a markdown file and generate a cooler version of it.
+* [Mos](https://github.com/mosjs/mos): Pluggable module that injects content into your markdown files via hidden JavaScript snippets.
 * [remark](https://github.com/gnab/remark): Simple, in-browser, markdown-driven slideshow tool targeted at people who know their way around HTML and CSS.
 
 ### Related Lists
