@@ -15,6 +15,7 @@ When adding new links, there are a few simple rules:
 
 ## The list
 
+* [ArchieML](http://archieml.org): Makes it easy to write and edit structured text on deadline that could be rendered in web pages. Tag text as data, without having to type a lot of special characters. Similar with YAML.
 * [Cog](https://nedbatchelder.com/code/cog): Cog transforms files in a very simple way: it finds chunks of Python code embedded in them, executes the Python code, and inserts its output back into the original file. The file can contain whatever text you like around the Python code.
 * [Idyll](https://github.com/idyll-lang/idyll): Tool that makes it easier to author interactive narratives for the web. Create documents that use common narrative techniques such as embedding interactive charts and graphs, responding to scroll events, and explorable explanations.
 * [Maid](https://github.com/egoist/maid): Markdown driven task runner.
