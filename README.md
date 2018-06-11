@@ -23,6 +23,7 @@ When adding new links, there are a few simple rules:
 * [Mermaid](https://github.com/mermaidjs/mermaid.cli): Markdown-like script language for generating charts (flowchart, sequence diagram, gantt diagram) from text via Javascript.
 * [mmarkdown](https://github.com/albinotonnina/mmarkdown): Interpret mmd fenced code blocks in a markdown file and generate a cooler version of it.
 * [Mos](https://github.com/mosjs/mos): Pluggable module that injects content into your markdown files via hidden JavaScript snippets.
+* [Org mode]http://orgmode.org: Keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
 * [remark](https://github.com/gnab/remark): Simple, in-browser, markdown-driven slideshow tool targeted at people who know their way around HTML and CSS.
 
 ### Related Lists
