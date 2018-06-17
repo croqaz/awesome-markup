@@ -21,6 +21,7 @@ When adding new links, there are a few simple rules:
 * [Maid](https://github.com/egoist/maid): Markdown driven task runner.
 * [Markvis](https://github.com/geekplux/markvis): Make visualization in markdown (bar, line, pie charts).
 * [Mermaid](https://github.com/mermaidjs/mermaid.cli): Markdown-like script language for generating charts (flowchart, sequence diagram, gantt diagram) from text via Javascript.
+* [mkcli](https://github.com/mkdoc/mkcli): Markdown command line interface definition. The markdown program definitions can be converted to man pages, help files and shell completion scripts. Encourages a document first approach to writing command line interfaces in a fluid natural language writing style.
 * [mmarkdown](https://github.com/albinotonnina/mmarkdown): Interpret mmd fenced code blocks in a markdown file and generate a cooler version of it.
 * [Mos](https://github.com/mosjs/mos): Pluggable module that injects content into your markdown files via hidden JavaScript snippets.
 * [Org mode]http://orgmode.org: Keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
