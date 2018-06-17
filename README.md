@@ -20,6 +20,7 @@ When adding new links, there are a few simple rules:
 * [Idyll](https://github.com/idyll-lang/idyll): Tool that makes it easier to author interactive narratives for the web. Create documents that use common narrative techniques such as embedding interactive charts and graphs, responding to scroll events, and explorable explanations.
 * [Maid](https://github.com/egoist/maid): Markdown driven task runner.
 * [Markvis](https://github.com/geekplux/markvis): Make visualization in markdown (bar, line, pie charts).
+* [Markdeep](https://github.com/reelsense/markdeep): Allows writing plain text documents that will look good in any web browser. Supports diagrams, common styling conventions, and equations as extensions of Markdown syntax. Ideal for design documents, specifications, README files, code documentation, lab reports, and technical web pages.
 * [Mermaid](https://github.com/mermaidjs/mermaid.cli): Markdown-like script language for generating charts (flowchart, sequence diagram, gantt diagram) from text via Javascript.
 * [mkcli](https://github.com/mkdoc/mkcli): Markdown command line interface definition. The markdown program definitions can be converted to man pages, help files and shell completion scripts. Encourages a document first approach to writing command line interfaces in a fluid natural language writing style.
 * [mmarkdown](https://github.com/albinotonnina/mmarkdown): Interpret mmd fenced code blocks in a markdown file and generate a cooler version of it.
