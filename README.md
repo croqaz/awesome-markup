@@ -25,6 +25,7 @@ When adding new links, there are a few simple rules:
 * [Cog](https://nedbatchelder.com/code/cog): Cog transforms files in a very simple way: it finds chunks of Python code embedded in them, executes the Python code, and inserts its output back into the original file. The file can contain whatever text you like around the Python code.
 * [Fountain](https://github.com/nyousefi/Fountain): Fountain is a simple markup syntax that allows screenplays to be written, edited, and shared in plain, human-readable text. Fountain allows you to work on your screenplay anywhere, on any computer, using any software that edits text files.
 * [funyu](https://bitbucket.org/MacRat/funyu): Markup language for blog posting. Improvement of linaria for doing more exact markup.
+* [fusuma](https://github.com/hiroppy/fusuma): Easily make slides with markdown. Just write the markdown and make the cool slide.
 * [Idyll](https://github.com/idyll-lang/idyll): Tool that makes it easier to author interactive narratives for the web. Create documents that use common narrative techniques such as embedding interactive charts and graphs, responding to scroll events, and explorable explanations.
 * [Maid](https://github.com/egoist/maid): Markdown driven task runner.
 * [Markvis](https://github.com/geekplux/markvis): Make visualization in markdown (bar, line, pie charts).
