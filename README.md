@@ -21,6 +21,8 @@ When adding new links, there are a few simple rules:
 
 ## The list
 
+<replace-sort-lines>
+
 * [ArchieML](http://archieml.org): Makes it easy to write and edit structured text on deadline that could be rendered in web pages. Tag text as data, without having to type a lot of special characters. Similar with YAML.
 * [Cog](https://nedbatchelder.com/code/cog): Cog transforms files in a very simple way: it finds chunks of Python code embedded in them, executes the Python code, and inserts its output back into the original file. The file can contain whatever text you like around the Python code.
 * [Fountain](https://github.com/nyousefi/Fountain): Fountain is a simple markup syntax that allows screenplays to be written, edited, and shared in plain, human-readable text. Fountain allows you to work on your screenplay anywhere, on any computer, using any software that edits text files.
@@ -28,8 +30,9 @@ When adding new links, there are a few simple rules:
 * [fusuma](https://github.com/hiroppy/fusuma): Easily make slides with markdown. Just write the markdown and make the cool slide.
 * [Idyll](https://github.com/idyll-lang/idyll): Tool that makes it easier to author interactive narratives for the web. Create documents that use common narrative techniques such as embedding interactive charts and graphs, responding to scroll events, and explorable explanations.
 * [Maid](https://github.com/egoist/maid): Markdown driven task runner.
-* [Markvis](https://github.com/geekplux/markvis): Make visualization in markdown (bar, line, pie charts).
 * [Markdeep](https://github.com/reelsense/markdeep): Allows writing plain text documents that will look good in any web browser. Supports diagrams, common styling conventions, and equations as extensions of Markdown syntax. Ideal for design documents, specifications, README files, code documentation, lab reports, and technical web pages.
+* [Markvis](https://github.com/geekplux/markvis): Make visualization in markdown (bar, line, pie charts).
+* [mdx-deck](https://github.com/jxnblk/mdx-deck): ♠️ MDX-based presentation decks.
 * [Mermaid](https://github.com/mermaidjs/mermaid.cli): Markdown-like script language for generating charts (flowchart, sequence diagram, gantt diagram) from text via Javascript.
 * [mkcli](https://github.com/mkdoc/mkcli): Markdown command line interface definition. The markdown program definitions can be converted to man pages, help files and shell completion scripts. Encourages a document first approach to writing command line interfaces in a fluid natural language writing style.
 * [mmarkdown](https://github.com/albinotonnina/mmarkdown): Interpret mmd fenced code blocks in a markdown file and generate a cooler version of it.
@@ -38,6 +41,8 @@ When adding new links, there are a few simple rules:
 * [remark](https://github.com/gnab/remark): Simple, in-browser, markdown-driven slideshow tool targeted at people who know their way around HTML and CSS.
 * [Rimu](http://rimumarkup.org): Readable-text to HTML markup language inspired by AsciiDoc and Markdown.
 * [slides](https://github.com/prodhe/slides): Easy browser based presentations using simple markup.
+
+</replace-sort-lines>
 
 ### Related Lists
 
