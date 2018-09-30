@@ -28,6 +28,7 @@ When adding new links, there are a few simple rules:
 * [Fountain](https://github.com/nyousefi/Fountain): Fountain is a simple markup syntax that allows screenplays to be written, edited, and shared in plain, human-readable text. Fountain allows you to work on your screenplay anywhere, on any computer, using any software that edits text files.
 * [funyu](https://bitbucket.org/MacRat/funyu): Markup language for blog posting. Improvement of linaria for doing more exact markup.
 * [fusuma](https://github.com/hiroppy/fusuma): Easily make slides with markdown. Just write the markdown and make the cool slide.
+* [Gitdown](https://github.com/gajus/gitdown): Gitdown adds additional functionality (generating table of contents, including documents, using variables, etc.) to GitHub Flavored Markdown.
 * [Idyll](https://github.com/idyll-lang/idyll): Tool that makes it easier to author interactive narratives for the web. Create documents that use common narrative techniques such as embedding interactive charts and graphs, responding to scroll events, and explorable explanations.
 * [Maid](https://github.com/egoist/maid): Markdown driven task runner.
 * [Markdeep](https://github.com/reelsense/markdeep): Allows writing plain text documents that will look good in any web browser. Supports diagrams, common styling conventions, and equations as extensions of Markdown syntax. Ideal for design documents, specifications, README files, code documentation, lab reports, and technical web pages.
