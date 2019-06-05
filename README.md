@@ -39,6 +39,7 @@ When adding new links, there are a few simple rules:
 * [mmarkdown](https://github.com/albinotonnina/mmarkdown): Interpret mmd fenced code blocks in a markdown file and generate a cooler version of it.
 * [Mos](https://github.com/mosjs/mos): Pluggable module that injects content into your markdown files via hidden JavaScript snippets.
 * [Org mode](http://orgmode.org): Keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
+* [Pweave](https://github.com/mpastell/Pweave): Scientific report generator and a literate programming tool for Python. Can capture the results and plots from data analysis and works with Numpy, Scipy and Matplotlib.
 * [remark](https://github.com/gnab/remark): Simple, in-browser, markdown-driven slideshow tool targeted at people who know their way around HTML and CSS.
 * [Rimu](http://rimumarkup.org): Readable-text to HTML markup language inspired by AsciiDoc and Markdown.
 * [slides](https://github.com/prodhe/slides): Easy browser based presentations using simple markup.
