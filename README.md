@@ -49,3 +49,9 @@ When adding new links, there are a few simple rules:
 ### Related Lists
 
 * https://github.com/mundimark/awesome-markdown
+
+-----
+
+## License
+
+Unlicensed aka Public Domain. See [UNLICENSE](/LICENSE) for details.
