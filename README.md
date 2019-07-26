@@ -25,6 +25,7 @@ When adding new links, there are a few simple rules:
 
 * [ArchieML](http://archieml.org): Makes it easy to write and edit structured text on deadline that could be rendered in web pages. Tag text as data, without having to type a lot of special characters. Similar with YAML.
 * [Cog](https://nedbatchelder.com/code/cog): Cog transforms files in a very simple way: it finds chunks of Python code embedded in them, executes the Python code, and inserts its output back into the original file. The file can contain whatever text you like around the Python code.
+* [CriticMarkup](http://criticmarkup.com): A way for authors and editors to track changes to documents in plain text. Highlight insertions, deletions, substitutions and comments.
 * [Fountain](https://github.com/nyousefi/Fountain): Fountain is a simple markup syntax that allows screenplays to be written, edited, and shared in plain, human-readable text. Fountain allows you to work on your screenplay anywhere, on any computer, using any software that edits text files.
 * [funyu](https://bitbucket.org/MacRat/funyu): Markup language for blog posting. Improvement of linaria for doing more exact markup.
 * [fusuma](https://github.com/hiroppy/fusuma): Easily make slides with markdown. Just write the markdown and make the cool slide.
