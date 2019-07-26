@@ -43,6 +43,7 @@ When adding new links, there are a few simple rules:
 * [remark](https://github.com/gnab/remark): Simple, in-browser, markdown-driven slideshow tool targeted at people who know their way around HTML and CSS.
 * [Rimu](http://rimumarkup.org): Readable-text to HTML markup language inspired by AsciiDoc and Markdown.
 * [slides](https://github.com/prodhe/slides): Easy browser based presentations using simple markup.
+* [TaskPaper](https://guide.taskpaper.com): Plain text TODO lists.
 
 </replace-sort-lines>
 
