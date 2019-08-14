@@ -51,6 +51,7 @@ When adding new links, there are a few simple rules:
 ### Related Lists
 
 * https://github.com/mundimark/awesome-markdown
+* https://en.wikipedia.org/wiki/Lightweight_markup_language
 
 -----
 
