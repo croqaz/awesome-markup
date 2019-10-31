@@ -21,7 +21,8 @@ When adding new links, there are a few simple rules:
 
 ## The list
 
-<replace-sort-lines>
+<!-- TwoFold sort lines -->
+<sortLines>
 
 * [ArchieML](http://archieml.org): Makes it easy to write and edit structured text on deadline that could be rendered in web pages. Tag text as data, without having to type a lot of special characters. Similar with YAML.
 * [Cog](https://nedbatchelder.com/code/cog): Cog transforms files in a very simple way: it finds chunks of Python code embedded in them, executes the Python code, and inserts its output back into the original file. The file can contain whatever text you like around the Python code.
@@ -46,7 +47,7 @@ When adding new links, there are a few simple rules:
 * [slides](https://github.com/prodhe/slides): Easy browser based presentations using simple markup.
 * [TaskPaper](https://guide.taskpaper.com): Plain text TODO lists.
 
-</replace-sort-lines>
+</sortLines>
 
 ### Related Lists
 
