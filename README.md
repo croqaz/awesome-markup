@@ -1,6 +1,5 @@
 
-# Awesome-markup
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-markup ![Awesome list](https://badgen.net/badge/icon/awesome?icon=awesome&color=purple&label)
 
 There is an increasing trend of new markdown-like super-languages, for various purposes, including: creating websites, presentations, graphs, charts and so on. This list tries to gather as much of them as possible, in one place.
 
@@ -21,7 +20,7 @@ When adding new links, there are a few simple rules:
 
 ## The list
 
-<!-- TwoFold sort lines -->
+<!-- TwoFold.js sort lines -->
 <sortLines>
 
 * [ArchieML](http://archieml.org): Makes it easy to write and edit structured text on deadline that could be rendered in web pages. Tag text as data, without having to type a lot of special characters. Similar with YAML.
