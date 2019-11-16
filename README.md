@@ -45,6 +45,7 @@ When adding new links, there are a few simple rules:
 * [Rimu](http://rimumarkup.org): Readable-text to HTML markup language inspired by AsciiDoc and Markdown.
 * [slides](https://github.com/prodhe/slides): Easy browser based presentations using simple markup.
 * [TaskPaper](https://guide.taskpaper.com): Plain text TODO lists.
+* [tslide](https://github.com/tslide/tslide): Terminal SlideDeck, supporting markdown.
 
 </sortLines>
 
