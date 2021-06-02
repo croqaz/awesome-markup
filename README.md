@@ -20,9 +20,6 @@ When adding new links, there are a few simple rules:
 
 ## The list
 
-<!-- TwoFold.js sort lines -->
-<sortLines>
-
 * [ArchieML](http://archieml.org): Makes it easy to write and edit structured text on deadline that could be rendered in web pages. Tag text as data, without having to type a lot of special characters. Similar with YAML.
 * [Cog](https://nedbatchelder.com/code/cog): Cog transforms files in a very simple way: it finds chunks of Python code embedded in them, executes the Python code, and inserts its output back into the original file. The file can contain whatever text you like around the Python code.
 * [CriticMarkup](http://criticmarkup.com): A way for authors and editors to track changes to documents in plain text. Highlight insertions, deletions, substitutions and comments.
@@ -43,12 +40,11 @@ When adding new links, there are a few simple rules:
 * [present](https://github.com/vinayak-mehta/present): Terminal-based presentation tool with colors and effects.
 * [Pweave](https://github.com/mpastell/Pweave): Scientific report generator and a literate programming tool for Python. Can capture the results and plots from data analysis and works with Numpy, Scipy and Matplotlib.
 * [remark](https://github.com/gnab/remark): Simple, in-browser, markdown-driven slideshow tool targeted at people who know their way around HTML and CSS.
+* [Ren](https://pointillistic.com/ren): Lightweight data-exchange text format. Programming language independent, with familiar conventions.
 * [Rimu](https://github.com/srackham/rimu): Readable-text to HTML markup language inspired by AsciiDoc and Markdown.
 * [slides](https://github.com/prodhe/slides): Easy browser based presentations using simple markup.
 * [TaskPaper](https://guide.taskpaper.com): Plain text TODO lists.
 * [tslide](https://github.com/tslide/tslide): Terminal SlideDeck, supporting markdown.
-
-</sortLines>
 
 ### Related Lists
 
