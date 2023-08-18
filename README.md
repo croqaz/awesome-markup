@@ -46,6 +46,7 @@ When adding new links, there are a few simple rules:
 * [slides](https://github.com/prodhe/slides): Easy browser based presentations using simple markup.
 * [TaskPaper](https://guide.taskpaper.com): Plain text TODO lists.
 * [tslide](https://github.com/tslide/tslide): Terminal SlideDeck, supporting markdown.
+* [Typst](https://github.com/typst/typst): Markup-based typesetting system that is designed to be as powerful as LaTeX while being much easier to learn and use.
 
 ### Related Lists
 
