@@ -36,6 +36,7 @@ When adding new links, there are a few simple rules:
 * [mkcli](https://github.com/mkdoc/mkcli): Markdown command line interface definition. The markdown program definitions can be converted to man pages, help files and shell completion scripts. Encourages a document first approach to writing command line interfaces in a fluid natural language writing style.
 * [mmarkdown](https://github.com/albinotonnina/mmarkdown): Interpret mmd fenced code blocks in a markdown file and generate a cooler version of it.
 * [Mos](https://github.com/mosjs/mos): Pluggable module that injects content into your markdown files via hidden JavaScript snippets.
+* [MyST](https://mystmd.org/): Extending Markdown for technical, scientific communication and publication.
 * [Org mode](http://orgmode.org): Keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
 * [present](https://github.com/vinayak-mehta/present): Terminal-based presentation tool with colors and effects.
 * [Pweave](https://github.com/mpastell/Pweave): Scientific report generator and a literate programming tool for Python. Can capture the results and plots from data analysis and works with Numpy, Scipy and Matplotlib.
